@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @roxaebkb
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning HTML,CSS, Javascript
+- 🌱 I’m currently learning HTML,CSS, Javascript, python
 - 💞️ I’m looking to collaborate on any project
 - 📫 How to reach me ...
 - 😄 Pronouns: her
